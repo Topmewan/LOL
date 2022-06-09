@@ -2,9 +2,9 @@ import logo from './images/logo.png';
 import champAshe from './images/Champion_ashe_HP.png';
 import champAhri from './images/Champion_Ahri_HP.png';
 import champGaren from './images/Champion_garen_HP.png';
-import bg1 from './images/bg-1.jpg';
-import bg2 from './images/bg-2.jpg';
-import bg3 from './images/bg-3.jpg';
+import bg1 from './images/bg-1.jpeg';
+import bg2 from './images/bg-2.jpeg';
+import bg3 from './images/bg-3.jpeg';
 import distortion from './images/distortion.png';
 
 import cardAshe from './images/ashe_card.png';
@@ -14,19 +14,19 @@ import cardFortune from './images/fortune_card.png';
 import cardLux from './images/lux_card.png';
 import cardAkali from './images/akali_card.png';
 
-import bgLux from './images/lux-bg.jpg';
-import bgGaren from './images/garen-bg.jpg';
-import bgAhri from './images/ahri-bg.jpg';
-import bgAshe from './images/ashe-bg.jpg';
-import bgFortune from './images/fortune-bg.jpg';
-import bgAkali from './images/akali-bg.jpg';
+import bgLux from './images/lux-bg.jpeg';
+import bgGaren from './images/garen-bg.jpeg';
+import bgAhri from './images/ahri-bg.jpeg';
+import bgAshe from './images/ashe-bg.jpeg';
+import bgFortune from './images/fortune-bg.jpeg';
+import bgAkali from './images/akali-bg.jpeg';
 
-import bgLargeAshe from './images/ashe-bg-large.jpg';
-import bgLargeAhri from './images/ahri-bg-large.jpg';
-import bgLargeFortune from './images/fortune-bg-large.jpg';
-import bgLargeLux from './images/lux-bg-large.jpg';
-import bgLargeGaren from './images/garen-bg-large.jpg';
-import bgLargeAkali from './images/akali-bg-large.jpg';
+import bgLargeAshe from './images/ashe-bg-large.jpeg';
+import bgLargeAhri from './images/ahri-bg-large.jpeg';
+import bgLargeFortune from './images/fortune-bg-large.jpeg';
+import bgLargeLux from './images/lux-bg-large.jpeg';
+import bgLargeGaren from './images/garen-bg-large.jpeg';
+import bgLargeAkali from './images/akali-bg-large.jpeg';
 
 import closeIcon from './images/two-sword.png';
 
